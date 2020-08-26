@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to UCLA IDRE workshop "An In-Depth Intro to Colab"
+This folder contains the slides in PDF and colab demos. The course contents are updated for Summer 2020.
 
-You can use the [editor on GitHub](https://github.com/huqy/colabintro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - When: August 27 2020 10am-11:30am
+ - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJYvcO2oqz0rHNYnEifjF0uL847MUnelOBUl) before joining
+<!--
+ - [Slides](https://huqy.github.io/[to-be-updated].pdf)
+-->
 
-### Markdown
+### Colab Demo list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/colab_utils.ipynb) for Colab Utility Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/Custom_YOLOv5.ipynb) for Custom YOLOv5 Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/cell_magics.ipynb) for Colab Utility Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/R_colab.ipynb) for R in Colab Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/julia_colab.ipynb) for Julia in Colab Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/ruby_colab.ipynb) for Ruby in Colab Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/Javascript_colab.ipynb) for Javascript in Colab Demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huqy/colabintro/blob/master/colab_ssh.ipynb) for SSH to Colab Session Demo
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Session Feedback [Survey](https://bit.ly/386nJHw)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huqy/colabintro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Instructor: [Qiyang Hu](mailto:huqy@idre.ucla.edu)
