@@ -1,12 +1,9 @@
-## Welcome to UCLA IDRE workshop "An In-Depth Intro to Colab"
-This folder contains the slides in PDF and colab demos. The course contents are updated for Summer 2020.
+This folder contains the slides in PDF and colab demos for the workshop hosted by UCLA IDRE. The course contents are updated for Summer 2020.
 
 
  - When: August 27 2020 10am-11:30am
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJYvcO2oqz0rHNYnEifjF0uL847MUnelOBUl) before joining
-<!--
- - [Slides](https://huqy.github.io/[to-be-updated].pdf)
--->
+ - Slides will be updated after the workshop.
 
 ### Colab Demo list
 
